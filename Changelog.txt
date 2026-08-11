@@ -260,4 +260,10 @@ Now all hack roms of fbas which converted to ips get a new category‌ named "RO
 Add some hacks to wakuwak7 and viostorm. (Done)
 Add some hacks from hbmame to kof series.
 Add ips from "bbs.xqemu.cn".
-Convert ips of kof2003 series to kof2k3fd. (Done)
+Convert ips of kof2003 series to kof2k3fd and fix texts in dat files. (Done)
+
+20260811:
+Add some hacks from hbmame to svcfd. (Done)
+Add ips from "bbs.xqemu.cn".
+Fix bugs of svc series. (Done)
+Fix texts in some dat files of kof97.
