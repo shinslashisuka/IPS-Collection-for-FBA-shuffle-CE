@@ -267,3 +267,9 @@ Add some hacks from hbmame to svcfd. (Done)
 Add ips from "bbs.xqemu.cn".
 Fix bugs of svc series. (Done)
 Fix texts in some dat files of kof97.
+
+20260813:
+Add 40+ hacks to kovplus and kovpluskr and kovsh. (most are from Plus)
+Reduce the size of pgm hacks' ips files.
+Fix bugs of kovplus series.
+CE ver 1.1.0 released.
