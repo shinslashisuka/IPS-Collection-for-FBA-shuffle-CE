@@ -273,3 +273,10 @@ Add 40+ hacks to kovplus and kovpluskr and kovsh. (most are from Plus)
 Reduce the size of pgm hacks' ips files.
 Fix bugs of kovplus series.
 CE ver 1.1.0 released.
+
+20260911:
+ADD MANY HACKS from some QQ groups. Especially thanks to 锅包肉.
+Reactivate all "2-SuperComb" series in kof98h and "2-MaerdEdit" series in kof97. (Althought it's rediculous to add all versions but it's a tribute to the outstanding‌ ips maker "Rabbit")
+Make a modified libburn.dll/libburn-x64.dll (with roms modification) for fbas to run somr PGM hacks. 
+Fix some text errors of all sets. (Done)
+Add some previews.
