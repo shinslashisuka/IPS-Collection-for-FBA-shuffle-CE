@@ -1,0 +1,21 @@
+// RomData template for FinalBurn Neo
+
+// The *** in the ZipName field cannot be empty and cannot be duplicated with DrvName
+ZipName: kovhsqj
+DrvName: kovplus
+FullName: "三国战纪 - 横扫千军 (修改版 三国战纪 正宗 Plus)"
+
+// Name		Len		Crc32		Type
+"hsqj_prg.rom",	0x00600000,	0xe068c8cd,	0x01100001
+"hsqj_t0600.rom",	0x00800000,	0xec2357a0,	0x00200002
+"hsqj_a0600.rom",	0x00800000,	0x75a6632a,	0x00200003
+"hsqj_a0601.rom",	0x00800000,	0x7a737a6c,	0x00200003
+"hsqj_a0602.rom",	0x00800000,	0xdb5d6514,	0x00200003
+"hsqj_a0540.rom",	0x00800000,	0xc4d01ddc,	0x00200003
+"hsqj_a0541.rom",	0x00800000,	0xe361ff69,	0x00200003
+"hsqj_a0542.rom",	0x00800000,	0xfd6c2656,	0x00200003
+"hsqj_b0600.rom",	0x00800000,	0xf96d5bf7,	0x00200004
+"hsqj_b0540.rom",	0x00800000,	0x33b87f2d,	0x00200004
+"hsqj_b0541.rom",	0x00800000,	0x12a3e8d2,	0x00200004
+"hsqj_m0600.rom",	0x00800000,	0xc1744a4c,	0x00400005
+"kov_igs027a.bin",	0x00004000,	0x00000000,	0x11100007
