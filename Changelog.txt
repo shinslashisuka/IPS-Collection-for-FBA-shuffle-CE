@@ -280,3 +280,11 @@ Reactivate all "2-SuperComb" series in kof98h and "2-MaerdEdit" series in kof97.
 Make a modified libburn.dll/libburn-x64.dll (with roms modification) for fbas to run somr PGM hacks. 
 Fix some text errors of all sets. (Done)
 Add some previews.
+
+20260923:
+Add some hacks/bootlegs from hbmame's rollback roms to svcfd (Done)
+Add "2-sf2mix096" to sf2ce.
+Add ips from "ppxclub".
+Add "0-kof97ae230625" to kof97ae. (Done)
+Add hacks from 锅包肉's QQ group.
+CE ver 1.5.0 released.
