@@ -277,14 +277,21 @@ CE ver 1.1.0 released.
 20260911:
 ADD MANY HACKS from some QQ groups. Especially thanks to 锅包肉.
 Reactivate all "2-SuperComb" series in kof98h and "2-MaerdEdit" series in kof97. (Althought it's rediculous to add all versions but it's a tribute to the outstanding‌ ips maker "Rabbit")
-Make a modified libburn.dll/libburn-x64.dll (with roms modification) for fbas to run somr PGM hacks. 
+Make a modified libburn.dll/libburn-x64.dll (with roms modification) for fbas to run some PGM hacks. 
 Fix some text errors of all sets. (Done)
 Add some previews.
 
 20260923:
-Add some hacks/bootlegs from hbmame's rollback roms to svcfd (Done)
+Add some hacks/bootlegs from hbmame's rollback roms to svcfd. (Done)
 Add "2-sf2mix096" to sf2ce.
 Add ips from "ppxclub".
 Add "0-kof97ae230625" to kof97ae. (Done)
 Add hacks from 锅包肉's QQ group.
 CE ver 1.5.0 released.
+
+20261010:
+Add hacks from 锅包肉's QQ group.
+Change some titles of "1-Language" dats. (e.g. 葡萄牙版 to 巴西葡萄牙文版)
+Copy some dats from main rom sets to expand rom sets.
+Add "2-Blkof10th" and "2-Blkof10thV2" to kof2k2fdkr. (Done)
+
