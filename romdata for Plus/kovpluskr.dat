@@ -1,0 +1,24 @@
+// RomData template for FinalBurn Neo
+
+// The *** in the ZipName field cannot be empty and cannot be duplicated with DrvName
+ZipName: kovpluskr
+DrvName: kovplus
+FullName: "三国战纪 正宗 Plus (版本 119, 第1套)(扩容, 修改版)"
+
+// Name		Len		Crc32		Type
+"pgm_p0603_v119.ux",	0x00700000,	0x49c8080b,	0x01100001
+"pgm_t0600.u11",	0x00800000,	0x4acc1ad6,	0x00200002
+"pgm_a0600.u2",	0x00800000,	0xd8167834,	0x00200003
+"pgm_a0601.u4",	0x00800000,	0xff7a4373,	0x00200003
+"pgm_a0602.u6",	0x00800000,	0xe7a32959,	0x00200003
+"pgm_a0603.u9",	0x00800000,	0xc1b40d09,	0x00200003
+"pgm_a0604.ux",	0x00800000,	0x1ad2bc45,	0x00200003
+"pgm_a0605.ux",	0x00800000,	0x1ad2bc45,	0x00200003
+"pgm_a0606.ux",	0x00800000,	0x1ad2bc45,	0x00200003
+"pgm_a0607.ux",	0x00800000,	0x1ad2bc45,	0x00200003
+"pgm_b0600.u5",	0x00800000,	0x7d3cd059,	0x00200004
+"pgm_b0601.u7",	0x00800000,	0xa05a14a0,	0x00200004
+"pgm_b0602.ux",	0x00800000,	0x1ad2bc45,	0x00200004
+"pgm_b0603.ux",	0x00800000,	0x1ad2bc45,	0x00200004
+"pgm_m0600.u3",	0x00800000,	0x2db0e2e0,	0x00400005
+"kov_igs027a.bin",	0x00004000,	0x00000000,	0x11100007
